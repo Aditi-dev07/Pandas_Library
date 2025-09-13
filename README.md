@@ -16,7 +16,7 @@ A reference guide for experienced users
 3.Progress gradually from basic to advanced concepts
 4.Build a portfolio of Pandas projects for learners
 
-📂 Repository Structure
+#Repository Structure
 Pandas_Library/
 │── Project_01/   # Beginner level
 │── Project_02/   # Beginner level
