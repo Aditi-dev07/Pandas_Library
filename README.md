@@ -140,7 +140,7 @@ cd Pandas_Library
 ```
 ```
 #Install required libraries:
-pip install pandas numpy matplotlib seaborn
+pip install pandas 
 ```
 
 **Open any project notebook in Jupyter Notebook or Google Colab.**
