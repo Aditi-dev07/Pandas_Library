@@ -1,6 +1,11 @@
 # Pandas_Library
 Pandas_Library – 30 Projects Documentation
-Introduction
+
+
+
+
+
+_____Introduction____
 
 Pandas is the most powerful Python library for data analysis and manipulation. Whether you’re cleaning messy datasets, analyzing trends, or preparing data for machine learning, Pandas provides fast, flexible, and intuitive tools.
 This repository is a collection of 30 Pandas projects, created to demonstrate Pandas functionality from beginner to advanced.
@@ -9,7 +14,7 @@ It serves both as:
 A learning resource for newcomers
 A reference guide for experienced users
 
-#Objectives of this Repository
+_____Objectives of this Repository_____
 
 1.Provide hands-on projects to learn Pandas effectively
 2.Cover real-world datasets & scenarios
@@ -21,10 +26,9 @@ The datasets folder contains CSV/Excel files used across projects.
 
 
 
-#Projects Overview
+_________Projects Overview________
 Beginner Projects (1–10) – Foundations
 These projects focus on basic Pandas operations.
-
 
 
 1.Exploring a Dataset – Load a dataset, inspect shape, info, and first rows.
@@ -49,7 +53,7 @@ These projects focus on basic Pandas operations.
 
 
 
-#Intermediate Projects (11–20) – Wrangling & Reshaping
+__________Intermediate Projects (11–20) – Wrangling & Reshaping____________
 These projects demonstrate grouping, merging, reshaping, and multi-indexing.
 
 1.GroupBy Basics – Aggregate sales by city & month.
@@ -74,7 +78,7 @@ These projects demonstrate grouping, merging, reshaping, and multi-indexing.
 
 
 
-#Advanced Projects (21–30) – Performance & Applications
+____________Advanced Projects (21–30) – Performance & Applications__________
 These projects focus on time series, performance, and ML preprocessing.
 
 1.Time Series Basics – Resample sales data monthly.
@@ -99,11 +103,11 @@ End-to-End Case Study – Clean, analyze, and visualize a real dataset.
 
 
 
-#Tech Stack
+_____Tech Stack______
 Python 3.x
 Pandas (Core library)
 NumPy (Numerical ops)
 Matplotlib / Seaborn (Visualizations)
 Jupyter Notebook / Google Colab
 
-#By completing these 30 projects, you’ll gain end-to-end mastery of Pandas, from data cleaning to advanced analytics
+___________________By completing these 30 projects, you’ll gain end-to-end mastery of Pandas, from data cleaning to advanced analytics____________
