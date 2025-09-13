@@ -19,9 +19,13 @@ A reference guide for experienced users
 Each project folder contains a Jupyter Notebook (.ipynb) with code and explanations.
 The datasets folder contains CSV/Excel files used across projects.
 
+
+
 #Projects Overview
 Beginner Projects (1–10) – Foundations
 These projects focus on basic Pandas operations.
+
+
 
 1.Exploring a Dataset – Load a dataset, inspect shape, info, and first rows.
 
@@ -42,6 +46,8 @@ These projects focus on basic Pandas operations.
 9.Basic Visualization – Plot data using Pandas .plot() & Matplotlib.
 
 10.Exporting Data – Save processed datasets to .csv or .xlsx.
+
+
 
 #Intermediate Projects (11–20) – Wrangling & Reshaping
 These projects demonstrate grouping, merging, reshaping, and multi-indexing.
@@ -66,6 +72,8 @@ These projects demonstrate grouping, merging, reshaping, and multi-indexing.
 
 10.Advanced Pivot with Multiple Aggregations – Mix sum, mean, count in one pivot.
 
+
+
 #Advanced Projects (21–30) – Performance & Applications
 These projects focus on time series, performance, and ML preprocessing.
 
@@ -88,6 +96,8 @@ These projects focus on time series, performance, and ML preprocessing.
 9.Machine Learning Preprocessing – Encode, scale, and prepare features.
 
 End-to-End Case Study – Clean, analyze, and visualize a real dataset.
+
+
 
 #Tech Stack
 Python 3.x
