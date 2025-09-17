@@ -27,7 +27,7 @@ Pandas_Library/
 
 │── Project_01/   # Beginner level
 
-│── Project_02/   # Beginner level
+│── Project_02/   # Intermediate  level
 
 │── ...
 
