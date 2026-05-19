@@ -129,18 +129,4 @@ Matplotlib / Seaborn (Visualizations)
 
 Jupyter Notebook / Google Colab
 
-## **🚀 Getting Started**
-```
-#Clone this repository:
-git clone https://github.com/your-username/Pandas_Library.git
-```
-```
-#Navigate into the repo:
-cd Pandas_Library
-```
-```
-#Install required libraries:
-pip install pandas 
-```
-
 **Open any project notebook in Jupyter Notebook or Google Colab.**
